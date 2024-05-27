@@ -1,0 +1,15 @@
+.t1{
+    text-align: center;
+    font-style: italic;
+    background-color: red;
+    color: black;
+    padding: 15px;
+}
+.t2{
+    text-align: center;
+    font-size: 200%;
+    color: red;
+}
+.pa1{
+    font-size: 100%;
+}
